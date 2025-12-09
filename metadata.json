@@ -1,0 +1,5 @@
+{
+  "name": "Sliced Picture",
+  "description": "A web-based tool to create and visualize slicing scaling algorithms for images.",
+  "requestFramePermissions": []
+}
